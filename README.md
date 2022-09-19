@@ -26,7 +26,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ## Approach
 - Extracted days from dataset.
 - Pushed days into corresponding arrays & used .length method to get the number of times each day appears in dataset.
-- Displays either bar chart or line graph (depending on user preference, set with toggle) with each day (Monday-Sunday) with optimal day determined by the highest number of times a day appears in the dataset.
+- Displays either bar chart or line graph (depending on user preference, set with toggle) with each day (Monday-Sunday) & the optimal day being determined by the highest number of times a day appears in the dataset.
 ## Limitations
  - Styling limitations/complexities with Chart.js library.
  - Only shows optimal Day and not time.
