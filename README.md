@@ -29,7 +29,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 - Displays either bar chart or line graph (depending on user preference, set with toggle) with each day (Monday-Sunday) & the optimal day being determined by the highest number of times a day appears in the dataset.
 ## Limitations
  - Styling limitations/complexities with Chart.js library.
- - Only shows optimal Day and not time.
+ - Only shows optimal Day and not optimal Time.
 
  ## Potential Improvements with more time
  - Showing a seperate visual for optimal time in addition to optimal day. 
